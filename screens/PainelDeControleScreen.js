@@ -12,7 +12,7 @@ const PainelDeControleScreen = () => {
       <Interruptor nome="Luz do Quarto"/>
     </View>
   );
-};
+}; 
 
 const styles = StyleSheet.create({
   container: {
